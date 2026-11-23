@@ -71,7 +71,6 @@ FagoLM/
 │   ├── val_fragmentos/                        # 1,327 fragmentos independientes de validación
 │   ├── predicciones/                          # Predicciones Test 3B y Test 3C
 │   └── resultados/                            # REPORTE_ETAPA3_FINETUNING_LORA.md + 5 tablas TSV
-├── graficas_tesis/                            # 12 figuras multipanel (PNG 300 DPI + PDF vectorial)
 └── scripts/                                   # Pipeline reproducible completo (Etapas 1, 2 y 3)
 ```
 
