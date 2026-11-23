@@ -1,3 +1,4 @@
+.gitignore
 # Entornos virtuales y cachés Python
 .venv/
 venv/
