@@ -1,0 +1,20 @@
+{
+  "mode": "e2_core_original",
+  "fragments": 1301,
+  "total_bp": 3164000,
+  "stage1_groups_by_region_kind": {
+    "complete": 29219
+  },
+  "stage1_pos_by_region_kind": {
+    "complete": 4080
+  },
+  "tis_candidates_evaluated": 62545,
+  "empty_tis_windows": 432,
+  "truncated_tis_windows": 171,
+  "emitted_calls_total": 3710,
+  "emitted_calls_by_cand_type": {
+    "complete": 3710
+  },
+  "elapsed_seconds": 164.58,
+  "peak_vram_mib": 1014.96
+}

@@ -1,0 +1,35 @@
+##gff-version 3
+##Tool: GeneLM-local (modo_b_adaptado_fagos)
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	133	393	0.9832	+	0	ID=CP004084_00001;orf_group=P4;cds_prob1=0.5618;tis_prob1=0.9832;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	211	285	0.9863	-	0	ID=CP004084_00002;orf_group=N3;cds_prob1=0.9998;tis_prob1=0.9863;start_codon=ATA;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	248	331	0.9132	+	0	ID=CP004084_00003;orf_group=P3;cds_prob1=0.9998;tis_prob1=0.9132;start_codon=ATA;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	390	848	0.9987	+	0	ID=CP004084_00004;orf_group=P7;cds_prob1=0.9981;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	452	520	0.9733	-	0	ID=CP004084_00005;orf_group=N6;cds_prob1=0.9998;tis_prob1=0.9733;start_codon=ATC;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	520	588	0.8585	+	0	ID=CP004084_00006;orf_group=P5;cds_prob1=0.9998;tis_prob1=0.8585;start_codon=TTG;stop_codon=TAG;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	523	591	0.9273	-	0	ID=CP004084_00007;orf_group=N8;cds_prob1=0.9998;tis_prob1=0.9273;start_codon=ATC;stop_codon=TAG;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	566	634	0.6816	-	0	ID=CP004084_00008;orf_group=N9;cds_prob1=0.9998;tis_prob1=0.6816;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	848	964	0.9987	+	0	ID=CP004084_00009;orf_group=P8;cds_prob1=0.9214;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	1001	2284	0.9987	+	0	ID=CP004084_00010;orf_group=P17;cds_prob1=0.9827;tis_prob1=0.9987;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	1706	1765	0.7929	-	0	ID=CP004084_00011;orf_group=N17;cds_prob1=0.9998;tis_prob1=0.7929;start_codon=TTG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	1804	1899	0.9896	-	0	ID=CP004084_00012;orf_group=N19;cds_prob1=0.9998;tis_prob1=0.9896;start_codon=ATC;stop_codon=TAG;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	1932	1994	0.9849	+	0	ID=CP004084_00013;orf_group=P15;cds_prob1=0.9998;tis_prob1=0.9849;start_codon=ATA;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2031	2111	0.9188	-	0	ID=CP004084_00014;orf_group=N21;cds_prob1=0.9998;tis_prob1=0.9188;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2239	2307	0.7998	-	0	ID=CP004084_00015;orf_group=N22;cds_prob1=0.9998;tis_prob1=0.7998;start_codon=ATA;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2304	2396	0.8822	-	0	ID=CP004084_00016;orf_group=N23;cds_prob1=0.9998;tis_prob1=0.8822;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2395	2922	0.9983	+	0	ID=CP004084_00017;orf_group=P21;cds_prob1=0.9749;tis_prob1=0.9983;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2810	2878	0.7367	+	0	ID=CP004084_00018;orf_group=P20;cds_prob1=0.9998;tis_prob1=0.7367;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2915	2983	0.9807	-	0	ID=CP004084_00019;orf_group=N26;cds_prob1=0.9998;tis_prob1=0.9807;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	2931	3917	0.9986	+	0	ID=CP004084_00020;orf_group=P25;cds_prob1=0.9978;tis_prob1=0.9986;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	3029	3097	0.6538	-	0	ID=CP004084_00021;orf_group=N27;cds_prob1=0.9998;tis_prob1=0.6538;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	3287	3358	0.7445	-	0	ID=CP004084_00022;orf_group=N30;cds_prob1=0.9998;tis_prob1=0.7445;start_codon=ATA;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	3533	3625	0.7131	-	0	ID=CP004084_00023;orf_group=N34;cds_prob1=0.9998;tis_prob1=0.7131;start_codon=ATT;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	3752	3820	0.7598	-	0	ID=CP004084_00024;orf_group=N36;cds_prob1=0.9998;tis_prob1=0.7598;start_codon=ATA;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	3914	4006	0.9698	+	0	ID=CP004084_00025;orf_group=P27;cds_prob1=0.9998;tis_prob1=0.9698;start_codon=ATA;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4260	4328	0.8477	-	0	ID=CP004084_00026;orf_group=N41;cds_prob1=0.9998;tis_prob1=0.8477;start_codon=GTG;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4429	4500	0.9939	+	0	ID=CP004084_00027;orf_group=P29;cds_prob1=0.9998;tis_prob1=0.9939;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4439	4522	0.9794	-	0	ID=CP004084_00028;orf_group=N44;cds_prob1=0.9998;tis_prob1=0.9794;start_codon=ATA;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4473	4556	0.5334	-	0	ID=CP004084_00029;orf_group=N45;cds_prob1=0.9998;tis_prob1=0.5334;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4537	4611	0.8629	+	0	ID=CP004084_00030;orf_group=P30;cds_prob1=0.9998;tis_prob1=0.8629;start_codon=ATG;stop_codon=TAG;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4608	4700	0.9583	-	0	ID=CP004084_00031;orf_group=N46;cds_prob1=0.9998;tis_prob1=0.9583;start_codon=ATT;stop_codon=TAA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	4929	5009	0.9964	-	0	ID=CP004084_00032;orf_group=N50;cds_prob1=0.9998;tis_prob1=0.9964;start_codon=ATA;stop_codon=TGA;tis_window_len=60
+CP004084	GeneLM_modo_b_adaptado_fagos	CDS	5106	5177	0.7822	-	0	ID=CP004084_00033;orf_group=N52;cds_prob1=0.9998;tis_prob1=0.7822;start_codon=ATT;stop_codon=TAG;tis_window_len=60

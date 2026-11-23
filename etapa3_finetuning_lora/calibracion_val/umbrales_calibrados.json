@@ -1,0 +1,36 @@
+{
+  "best_calibrated": {
+    "tau_cds_gt100": 0.6,
+    "tau_cds_short": 0.85,
+    "tau_tis_default": 0.5,
+    "tau_tis_open5_override": 0.95,
+    "refs": 5891,
+    "preds": 6318,
+    "tp": 5344,
+    "fp": 974,
+    "precision": 0.8458,
+    "recall": 0.9071,
+    "f1": 0.8754,
+    "exact_observable_recall": 0.8387,
+    "partial_edge_recovery": 0.8005,
+    "fp_per_kb": 0.3015
+  },
+  "default_050": {
+    "tau_cds_gt100": 0.5,
+    "tau_cds_short": 0.5,
+    "tau_tis_default": 0.5,
+    "tau_tis_open5_override": 0.5,
+    "refs": 5891,
+    "preds": 7007,
+    "tp": 5301,
+    "fp": 1706,
+    "precision": 0.7565,
+    "recall": 0.8998,
+    "f1": 0.822,
+    "exact_observable_recall": 0.8177,
+    "partial_edge_recovery": 0.7379,
+    "fp_per_kb": 0.5282
+  },
+  "inference_seconds_val": 236.34,
+  "grid_size": 180
+}

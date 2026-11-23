@@ -1,0 +1,13 @@
+mode	length_bin_nt	refs	extractor_stop	stage1_pos	stage1_recall	stop_tp	stop_recall	exact_tp	exact_recall	tis_acc_cond
+modo_a_original	<=100	10	5	0	0.0	0	0.0	0	0.0	0.0
+modo_a_original	101-300	698	696	611	0.8754	600	0.8596	550	0.788	0.9167
+modo_a_original	301-900	970	970	956	0.9856	943	0.9722	858	0.8845	0.9099
+modo_a_original	>900	373	373	372	0.9973	372	0.9973	318	0.8525	0.8548
+modo_b_adaptado_fagos	<=100	10	10	3	0.3	3	0.3	3	0.3	1.0
+modo_b_adaptado_fagos	101-300	698	698	619	0.8868	616	0.8825	540	0.7736	0.8766
+modo_b_adaptado_fagos	301-900	970	970	957	0.9866	955	0.9845	830	0.8557	0.8691
+modo_b_adaptado_fagos	>900	373	373	372	0.9973	372	0.9973	311	0.8338	0.836
+modo_c_diagnostico_hebra_menos	<=100	10	5	0	0.0	0	0.0	0	0.0	0.0
+modo_c_diagnostico_hebra_menos	101-300	698	696	606	0.8682	595	0.8524	545	0.7808	0.916
+modo_c_diagnostico_hebra_menos	301-900	970	970	956	0.9856	943	0.9722	858	0.8845	0.9099
+modo_c_diagnostico_hebra_menos	>900	373	373	372	0.9973	372	0.9973	318	0.8525	0.8548

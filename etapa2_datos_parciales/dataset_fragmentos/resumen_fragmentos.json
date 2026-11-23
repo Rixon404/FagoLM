@@ -1,0 +1,55 @@
+{
+  "seed": 42,
+  "genomes": 20,
+  "total_fragments": 1301,
+  "total_fragment_bp": 3164000,
+  "fragments_by_length": {
+    "1000": 732,
+    "2000": 306,
+    "5000": 162,
+    "10000": 101
+  },
+  "total_observable_cds": 5767,
+  "counts_by_status": {
+    "partial_both": 155,
+    "partial_5prime": 1019,
+    "partial_3prime": 985,
+    "complete": 3608
+  },
+  "counts_by_status_gt103": {
+    "partial_both": 155,
+    "partial_5prime": 820,
+    "partial_3prime": 793,
+    "complete": 3582
+  },
+  "counts_by_status_le103": {
+    "partial_3prime": 192,
+    "partial_5prime": 199,
+    "complete": 26
+  },
+  "counts_by_length_and_status": {
+    "1000": {
+      "partial_both": 136,
+      "partial_5prime": 521,
+      "partial_3prime": 508,
+      "complete": 531
+    },
+    "2000": {
+      "partial_5prime": 258,
+      "partial_3prime": 259,
+      "complete": 643,
+      "partial_both": 18
+    },
+    "5000": {
+      "partial_5prime": 145,
+      "complete": 1045,
+      "partial_3prime": 136,
+      "partial_both": 1
+    },
+    "10000": {
+      "partial_5prime": 95,
+      "complete": 1389,
+      "partial_3prime": 82
+    }
+  }
+}

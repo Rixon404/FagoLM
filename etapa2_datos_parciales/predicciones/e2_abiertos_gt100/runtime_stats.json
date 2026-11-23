@@ -1,0 +1,29 @@
+{
+  "mode": "e2_abiertos_gt100",
+  "fragments": 1301,
+  "total_bp": 3164000,
+  "stage1_groups_by_region_kind": {
+    "open_both": 201,
+    "open_5": 3034,
+    "complete": 26878,
+    "open_3": 2321
+  },
+  "stage1_pos_by_region_kind": {
+    "open_both": 169,
+    "open_5": 796,
+    "open_3": 745,
+    "complete": 3343
+  },
+  "tis_candidates_evaluated": 80043,
+  "empty_tis_windows": 0,
+  "truncated_tis_windows": 0,
+  "emitted_calls_total": 4979,
+  "emitted_calls_by_cand_type": {
+    "open_both": 36,
+    "open_5": 305,
+    "open_3": 855,
+    "complete": 3783
+  },
+  "elapsed_seconds": 197.092,
+  "peak_vram_mib": 1014.96
+}

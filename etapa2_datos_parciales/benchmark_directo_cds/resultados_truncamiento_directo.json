@@ -1,0 +1,267 @@
+{
+  "seed": 42,
+  "pos_pool": 2051,
+  "neg_pool_available": 11290,
+  "neg_sampled": 2051,
+  "pos_len_bins": {
+    ">900": 373,
+    "<=300": 708,
+    "301-600": 732,
+    "601-900": 238
+  },
+  "neg_sampled_len_bins": {
+    "<=300": 923,
+    "301-600": 742,
+    "601-900": 238,
+    ">900": 148
+  },
+  "conditions": [
+    {
+      "condition": "complete_gt103",
+      "ALL": {
+        "n_pos": 2039,
+        "n_neg": 2051,
+        "accuracy": 0.9689,
+        "precision": 0.9928,
+        "recall": 0.9446,
+        "f1": 0.9681,
+        "fpr": 0.0068,
+        "auroc": 0.9976,
+        "mean_prob_pos": 0.915,
+        "mean_prob_neg": 0.0087
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1230,
+          "n_neg": 853,
+          "accuracy": 0.9698,
+          "precision": 0.9899,
+          "recall": 0.9585,
+          "f1": 0.974,
+          "fpr": 0.0141,
+          "auroc": 0.9957,
+          "mean_prob_pos": 0.9292,
+          "mean_prob_neg": 0.0156
+        },
+        "-": {
+          "n_pos": 809,
+          "n_neg": 1198,
+          "accuracy": 0.9681,
+          "precision": 0.9973,
+          "recall": 0.9234,
+          "f1": 0.9589,
+          "fpr": 0.0017,
+          "auroc": 0.999,
+          "mean_prob_pos": 0.8935,
+          "mean_prob_neg": 0.0039
+        }
+      }
+    },
+    {
+      "condition": "sin_5prime_50pct",
+      "ALL": {
+        "n_pos": 1737,
+        "n_neg": 1312,
+        "accuracy": 0.7684,
+        "precision": 0.9942,
+        "recall": 0.597,
+        "f1": 0.746,
+        "fpr": 0.0046,
+        "auroc": 0.9881,
+        "mean_prob_pos": 0.6039,
+        "mean_prob_neg": 0.0066
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1078,
+          "n_neg": 512,
+          "accuracy": 0.7421,
+          "precision": 0.9926,
+          "recall": 0.6243,
+          "f1": 0.7665,
+          "fpr": 0.0098,
+          "auroc": 0.9846,
+          "mean_prob_pos": 0.6295,
+          "mean_prob_neg": 0.0125
+        },
+        "-": {
+          "n_pos": 659,
+          "n_neg": 800,
+          "accuracy": 0.7971,
+          "precision": 0.9973,
+          "recall": 0.5524,
+          "f1": 0.7109,
+          "fpr": 0.0013,
+          "auroc": 0.9893,
+          "mean_prob_pos": 0.5621,
+          "mean_prob_neg": 0.0029
+        }
+      }
+    },
+    {
+      "condition": "sin_3prime_50pct_slice3p",
+      "ALL": {
+        "n_pos": 1737,
+        "n_neg": 1312,
+        "accuracy": 0.8603,
+        "precision": 0.9977,
+        "recall": 0.7565,
+        "f1": 0.8605,
+        "fpr": 0.0023,
+        "auroc": 0.9943,
+        "mean_prob_pos": 0.7364,
+        "mean_prob_neg": 0.0044
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1078,
+          "n_neg": 512,
+          "accuracy": 0.8597,
+          "precision": 0.9965,
+          "recall": 0.7959,
+          "f1": 0.885,
+          "fpr": 0.0059,
+          "auroc": 0.9924,
+          "mean_prob_pos": 0.771,
+          "mean_prob_neg": 0.0092
+        },
+        "-": {
+          "n_pos": 659,
+          "n_neg": 800,
+          "accuracy": 0.8609,
+          "precision": 1.0,
+          "recall": 0.692,
+          "f1": 0.8179,
+          "fpr": 0.0,
+          "auroc": 0.9942,
+          "mean_prob_pos": 0.6799,
+          "mean_prob_neg": 0.0014
+        }
+      }
+    },
+    {
+      "condition": "sin_3prime_50pct_slice5p",
+      "ALL": {
+        "n_pos": 1737,
+        "n_neg": 1312,
+        "accuracy": 0.8606,
+        "precision": 0.9977,
+        "recall": 0.7571,
+        "f1": 0.8609,
+        "fpr": 0.0023,
+        "auroc": 0.9944,
+        "mean_prob_pos": 0.7377,
+        "mean_prob_neg": 0.0044
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1078,
+          "n_neg": 512,
+          "accuracy": 0.8604,
+          "precision": 0.9965,
+          "recall": 0.7968,
+          "f1": 0.8856,
+          "fpr": 0.0059,
+          "auroc": 0.9925,
+          "mean_prob_pos": 0.7725,
+          "mean_prob_neg": 0.0092
+        },
+        "-": {
+          "n_pos": 659,
+          "n_neg": 800,
+          "accuracy": 0.8609,
+          "precision": 1.0,
+          "recall": 0.692,
+          "f1": 0.8179,
+          "fpr": 0.0,
+          "auroc": 0.9943,
+          "mean_prob_pos": 0.6808,
+          "mean_prob_neg": 0.0013
+        }
+      }
+    },
+    {
+      "condition": "sin_ambos_50pct",
+      "ALL": {
+        "n_pos": 1762,
+        "n_neg": 1326,
+        "accuracy": 0.7571,
+        "precision": 0.9961,
+        "recall": 0.5766,
+        "f1": 0.7304,
+        "fpr": 0.003,
+        "auroc": 0.988,
+        "mean_prob_pos": 0.5855,
+        "mean_prob_neg": 0.0055
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1088,
+          "n_neg": 518,
+          "accuracy": 0.7329,
+          "precision": 0.994,
+          "recall": 0.6094,
+          "f1": 0.7556,
+          "fpr": 0.0077,
+          "auroc": 0.9843,
+          "mean_prob_pos": 0.616,
+          "mean_prob_neg": 0.0105
+        },
+        "-": {
+          "n_pos": 674,
+          "n_neg": 808,
+          "accuracy": 0.7834,
+          "precision": 1.0,
+          "recall": 0.5237,
+          "f1": 0.6874,
+          "fpr": 0.0,
+          "auroc": 0.9906,
+          "mean_prob_pos": 0.5363,
+          "mean_prob_neg": 0.0022
+        }
+      }
+    },
+    {
+      "condition": "truncado_corto_le100",
+      "ALL": {
+        "n_pos": 2051,
+        "n_neg": 2051,
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667,
+        "fpr": 1.0,
+        "auroc": 0.5505,
+        "mean_prob_pos": 0.9998,
+        "mean_prob_neg": 0.9998
+      },
+      "by_strand": {
+        "+": {
+          "n_pos": 1238,
+          "n_neg": 853,
+          "accuracy": 0.5921,
+          "precision": 0.5921,
+          "recall": 1.0,
+          "f1": 0.7438,
+          "fpr": 1.0,
+          "auroc": 0.6413,
+          "mean_prob_pos": 0.9998,
+          "mean_prob_neg": 0.9998
+        },
+        "-": {
+          "n_pos": 813,
+          "n_neg": 1198,
+          "accuracy": 0.4043,
+          "precision": 0.4043,
+          "recall": 1.0,
+          "f1": 0.5758,
+          "fpr": 1.0,
+          "auroc": 0.4486,
+          "mean_prob_pos": 0.9998,
+          "mean_prob_neg": 0.9998
+        }
+      }
+    }
+  ],
+  "peak_vram_mib": 783.23
+}

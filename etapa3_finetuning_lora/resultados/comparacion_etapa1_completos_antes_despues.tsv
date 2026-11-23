@@ -1,0 +1,5 @@
+mode	refs	preds	precision_iou	recall_iou	f1_iou	stop_precision	stop_recall	stop_f1	exact_recall	tis_acc_cond	stop_recall_le100	exact_recall_le100	stop_recall_101_300	exact_recall_101_300	fp_per_kb
+modo_a_original	2051	1957	0.9515	0.9078	0.9291	0.9785	0.9337	0.9556	0.8415	0.9013	0.0	0.0	0.8596	0.788	0.0678
+modo_b_adaptado_fagos	2051	10395	0.182	0.9225	0.304	0.1872	0.9488	0.3127	0.8211	0.8654	0.3	0.3	0.8825	0.7736	6.0718
+e3_fagolm_completos_ge60_t05	2051	2532	0.7686	0.9488	0.8492	0.7757	0.9576	0.8571	0.864	0.9022	0.4	0.4	0.9499	0.8481	0.4185
+e3_fagolm_completos_ge60_cal	2051	2282	0.851	0.9469	0.8964	0.8589	0.9556	0.9047	0.862	0.902	0.4	0.4	0.9441	0.8424	0.2428

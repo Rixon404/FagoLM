@@ -1,0 +1,7 @@
+mode	strand	refs	preds	stage1_pos	stage1_recall	stop_tp	stop_precision	stop_recall	stop_f1	exact_tp	exact_recall	tis_acc_cond
+modo_a_original	+	1238	1193	1180	0.9532	1168	0.979	0.9435	0.9609	1059	0.8554	0.9067
+modo_a_original	-	813	764	759	0.9336	747	0.9777	0.9188	0.9474	667	0.8204	0.8929
+modo_b_adaptado_fagos	+	1238	5256	1190	0.9612	1187	0.2258	0.9588	0.3656	1040	0.8401	0.8762
+modo_b_adaptado_fagos	-	813	5139	761	0.936	759	0.1477	0.9336	0.255	644	0.7921	0.8485
+modo_c_diagnostico_hebra_menos	+	1238	1193	1180	0.9532	1168	0.979	0.9435	0.9609	1059	0.8554	0.9067
+modo_c_diagnostico_hebra_menos	-	813	759	754	0.9274	742	0.9776	0.9127	0.944	662	0.8143	0.8922

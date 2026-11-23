@@ -1,0 +1,106 @@
+{
+  "seed": 42,
+  "max_containment_threshold": 0.05,
+  "tar_scanned_candidates": 212,
+  "excluded_test_homology": 11,
+  "excluded_train_homology": 2,
+  "excluded_quality": 3,
+  "max_containment_train_test": 0.027825,
+  "max_containment_val_test": 0.000879,
+  "max_containment_val_train": 0.030297,
+  "train_genomes": 120,
+  "val_genomes": 20,
+  "test_genomes": 20,
+  "cds_raw_pools": {
+    "train_pos": 55152,
+    "train_neg": 171848,
+    "val_pos": 5543,
+    "val_neg": 42253
+  },
+  "tis_raw_pools": {
+    "train_pos": 18469,
+    "train_neg": 269593,
+    "val_pos": 4663,
+    "val_neg": 60067
+  },
+  "dataset_cds_train": {
+    "total": 28000,
+    "pos": 14000,
+    "neg": 14000,
+    "pos_by_bucket": {
+      "gt103": 9764,
+      "60_103": 4236
+    },
+    "neg_by_bucket": {
+      "gt103": 9764,
+      "60_103": 4236
+    },
+    "pos_by_region": {
+      "complete": 3931,
+      "open_5": 3905,
+      "open_3": 3928,
+      "open_both": 2236
+    },
+    "neg_by_region": {
+      "complete": 3931,
+      "open_5": 3905,
+      "open_3": 3928,
+      "open_both": 2236
+    }
+  },
+  "dataset_cds_val": {
+    "total": 5000,
+    "pos": 2500,
+    "neg": 2500,
+    "pos_by_bucket": {
+      "gt103": 2326,
+      "60_103": 174
+    },
+    "neg_by_bucket": {
+      "gt103": 2258,
+      "60_103": 242
+    },
+    "pos_by_region": {
+      "complete": 1187,
+      "open_5": 603,
+      "open_3": 557,
+      "open_both": 153
+    },
+    "neg_by_region": {
+      "complete": 1292,
+      "open_5": 608,
+      "open_3": 563,
+      "open_both": 37
+    }
+  },
+  "dataset_tis_train": {
+    "total": 28000,
+    "pos": 14000,
+    "neg": 14000,
+    "pos_sources": {
+      "pos_partial_3prime": 3042,
+      "pos_complete": 10958
+    },
+    "neg_sources": {
+      "neg_alt_complete": 5533,
+      "neg_alt_partial_3prime": 1467,
+      "neg_open5_partial_5prime": 5220,
+      "neg_open5_partial_both": 1780
+    }
+  },
+  "dataset_tis_val": {
+    "total": 5000,
+    "pos": 2500,
+    "neg": 2500,
+    "pos_sources": {
+      "pos_complete": 1941,
+      "pos_partial_3prime": 559
+    },
+    "neg_sources": {
+      "neg_alt_complete": 999,
+      "neg_alt_partial_3prime": 251,
+      "neg_open5_partial_both": 273,
+      "neg_open5_partial_5prime": 977
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "mode": "e2_abiertos_ge60",
+  "fragments": 1301,
+  "total_bp": 3164000,
+  "stage1_groups_by_region_kind": {
+    "complete": 45667,
+    "open_both": 201,
+    "open_5": 4157,
+    "open_3": 2992
+  },
+  "stage1_pos_by_region_kind": {
+    "complete": 22132,
+    "open_both": 169,
+    "open_5": 1919,
+    "open_3": 1416
+  },
+  "tis_candidates_evaluated": 133662,
+  "empty_tis_windows": 0,
+  "truncated_tis_windows": 0,
+  "emitted_calls_total": 15801,
+  "emitted_calls_by_cand_type": {
+    "open_both": 36,
+    "complete": 13342,
+    "open_5": 1199,
+    "open_3": 1224
+  },
+  "elapsed_seconds": 319.447,
+  "peak_vram_mib": 1014.96
+}

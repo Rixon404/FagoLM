@@ -1,0 +1,4 @@
+mode	fragments	total_bp	refs	preds	tp	fp	fn	precision	recall	f1	exact_observable_recall	edge_refs	edge_recovered	partial_edge_recovery	fp_per_kb	elapsed_seconds	peak_vram_mib
+e2_core_original	1301	3164000	5767	3710	3363	347	2404	0.9065	0.5831	0.7097	0.5131	2159	0	0.0	0.1097	164.58	1014.96
+e2_abiertos_gt100	1301	3164000	5767	4979	4528	451	1239	0.9094	0.7852	0.8427	0.6893	2159	1019	0.472	0.1425	197.092	1014.96
+e2_abiertos_ge60	1301	3164000	5767	15801	4731	11070	1036	0.2994	0.8204	0.4387	0.7118	2159	1172	0.5428	3.4987	319.447	1014.96

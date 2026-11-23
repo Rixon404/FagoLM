@@ -1,0 +1,4 @@
+mode	refs	extractor_stop	pct_extractor_stop	stage1_cds_pos	pct_stage1_cds_pos	stage2_tis_evaluated	stage2_empty_win	stage2_trunc_win	stage2_tis_pred1	pct_stage2_tis_pred1	final_stop_tp	pct_final_stop_tp	final_exact_tp	pct_final_exact_tp	stage1_total_pos_groups	stage1_tp_groups	stage1_precision
+modo_a_original	2051	2044	99.66	1939	94.54	1939	5	0	1854	90.39	1915	93.37	1726	84.15	1984	1939	0.9773
+modo_b_adaptado_fagos	2051	2051	100.0	1951	95.12	1951	0	0	1864	90.88	1946	94.88	1684	82.11	13423	1951	0.1453
+modo_c_diagnostico_hebra_menos	2051	2044	99.66	1934	94.3	1934	5	0	1849	90.15	1910	93.13	1721	83.91	1979	1934	0.9773

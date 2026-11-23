@@ -1,0 +1,88 @@
+{
+  "tar_path": "trabajos_referencia/datasets/GenomesDB_Jan_2026.tar.gz",
+  "paired_fna_gff_genomes": 2977,
+  "mono_contig_genomes": 2977,
+  "multi_contig_genomes": 0,
+  "multi_contig_accessions_sample": [],
+  "genomes_with_N": 113,
+  "genomes_with_non_acgtn_iupac": 0,
+  "non_acgtn_char_genome_counts": {},
+  "non_acgtn_accessions_sample": {},
+  "stratum_genome_counts": {
+    "lt_20kb": 541,
+    "20kb_50kb": 1209,
+    "ge_100kb": 498,
+    "50kb_100kb": 729
+  },
+  "genome_length_bp_stats": {
+    "min": 2322,
+    "p25": 34476,
+    "median": 44881,
+    "p75": 68921,
+    "max": 642428
+  },
+  "gff_feature_sources": {
+    "Prodigal:002006": 265819
+  },
+  "global_cds_stats": {
+    "n_cds": 265819,
+    "strand_pos": 164527,
+    "strand_neg": 101292,
+    "len_le_60": 0,
+    "len_le_100": 905,
+    "len_le_103": 1136,
+    "edge_lt30": 1049,
+    "has_phrog": 193880,
+    "mod3_ok": 265819,
+    "valid_stop": 265819,
+    "non_genelm_start": 0,
+    "seqid_mismatch": 0,
+    "pct_len_le_60": 0.0,
+    "pct_len_le_100": 0.34,
+    "pct_len_le_103": 0.427,
+    "pct_edge_lt30": 0.395,
+    "pct_has_phrog": 72.937,
+    "pct_mod3_ok": 100.0,
+    "pct_valid_stop": 100.0,
+    "pct_non_genelm_start": 0.0,
+    "start_codons_top15": [
+      [
+        "ATG",
+        238135
+      ],
+      [
+        "GTG",
+        20868
+      ],
+      [
+        "TTG",
+        6816
+      ]
+    ],
+    "stop_codons_top10": [
+      [
+        "TAA",
+        132008
+      ],
+      [
+        "TGA",
+        98679
+      ],
+      [
+        "TAG",
+        35132
+      ]
+    ]
+  },
+  "pilot_summary": {
+    "seed": 42,
+    "n_genomes": 20,
+    "total_bp": 1400404,
+    "total_cds": 2051,
+    "total_len_le_103": 12,
+    "total_edge_lt30": 5,
+    "total_has_phrog": 1442,
+    "total_valid_stop": 2051,
+    "total_non_genelm_start": 0
+  }
+}

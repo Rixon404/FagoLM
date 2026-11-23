@@ -1,0 +1,6 @@
+##gff-version 3
+##Tool: GeneLM-local (modo_a_original)
+PP511821	GeneLM_modo_a_original	CDS	283	1638	0.8767	+	0	ID=PP511821_00001;orf_group=P5;cds_prob1=0.9926;tis_prob1=0.8767;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+PP511821	GeneLM_modo_a_original	CDS	1683	2660	0.9987	+	0	ID=PP511821_00002;orf_group=P7;cds_prob1=0.9894;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+PP511821	GeneLM_modo_a_original	CDS	3061	3282	0.9970	+	0	ID=PP511821_00003;orf_group=P10;cds_prob1=0.9893;tis_prob1=0.9970;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+PP511821	GeneLM_modo_a_original	CDS	3264	4307	0.8304	+	0	ID=PP511821_00004;orf_group=P13;cds_prob1=0.9924;tis_prob1=0.8304;start_codon=TTG;stop_codon=TAA;tis_window_len=60

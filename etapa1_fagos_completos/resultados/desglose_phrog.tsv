@@ -1,0 +1,7 @@
+mode	phrog_status	refs	stage1_pos	stage1_recall	stop_tp	stop_recall	exact_tp	exact_recall	tis_acc_cond
+modo_a_original	with_phrog	1442	1388	0.9626	1371	0.9508	1238	0.8585	0.903
+modo_a_original	without_phrog	609	551	0.9048	544	0.8933	488	0.8013	0.8971
+modo_b_adaptado_fagos	with_phrog	1442	1395	0.9674	1391	0.9646	1208	0.8377	0.8684
+modo_b_adaptado_fagos	without_phrog	609	556	0.913	555	0.9113	476	0.7816	0.8577
+modo_c_diagnostico_hebra_menos	with_phrog	1442	1385	0.9605	1368	0.9487	1235	0.8564	0.9028
+modo_c_diagnostico_hebra_menos	without_phrog	609	549	0.9015	542	0.89	486	0.798	0.8967

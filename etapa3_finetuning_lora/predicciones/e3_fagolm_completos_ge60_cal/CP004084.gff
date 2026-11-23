@@ -1,0 +1,8 @@
+##gff-version 3
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	133	393	0.9991	+	0	ID=CP004084_00001
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	2395	2922	0.9997	+	0	ID=CP004084_00002
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	848	964	0.9997	+	0	ID=CP004084_00003
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	1001	2284	0.9997	+	0	ID=CP004084_00004
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	390	848	0.9997	+	0	ID=CP004084_00005
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	2931	3917	0.9997	+	0	ID=CP004084_00006
+CP004084	FagoLM_e3_fagolm_completos_ge60_cal	CDS	2031	2111	0.9980	-	0	ID=CP004084_00007

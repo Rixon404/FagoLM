@@ -1,0 +1,9 @@
+##gff-version 3
+##Tool: GeneLM-local (modo_c_diagnostico_hebra_menos)
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	698	1723	0.9985	+	0	ID=KX266469_00001;orf_group=P9;cds_prob1=0.9797;tis_prob1=0.9985;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	1276	1638	0.9986	+	0	ID=KX266469_00002;orf_group=P8;cds_prob1=0.8417;tis_prob1=0.9986;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	1638	1808	0.9987	+	0	ID=KX266469_00003;orf_group=P10;cds_prob1=0.6117;tis_prob1=0.9987;start_codon=ATG;stop_codon=TGA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	1976	2434	0.9987	+	0	ID=KX266469_00004;orf_group=P12;cds_prob1=0.9983;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	2600	3883	0.9987	+	0	ID=KX266469_00005;orf_group=P19;cds_prob1=0.9893;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	4020	4553	0.9985	+	0	ID=KX266469_00006;orf_group=P24;cds_prob1=0.9981;tis_prob1=0.9985;start_codon=ATG;stop_codon=TAA;tis_window_len=60
+KX266469	GeneLM_modo_c_diagnostico_hebra_menos	CDS	4564	5577	0.9987	+	0	ID=KX266469_00007;orf_group=P29;cds_prob1=0.9939;tis_prob1=0.9987;start_codon=ATG;stop_codon=TAA;tis_window_len=60

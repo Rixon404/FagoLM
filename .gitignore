@@ -1,0 +1,24 @@
+# Entornos virtuales y cachés Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Checkpoints intermedios temporales de entrenamiento
+**/_tmp_ckpt/
+
+# Archivos temporales / bloqueos de Word y LibreOffice
+~$*.doc
+~$*.docx
+.~lock.*
+*.tmp
+.DS_Store
+
+# Gráficas e imágenes de tesis (excluidas de GitHub)
+graficas_tesis/
+imagenes_tesis/
+*imagenes*
+
